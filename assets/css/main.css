@@ -1,0 +1,12 @@
+#zonaDrop{
+  width: 50vw;
+  position: relative;
+  left: 40vw;
+  top: 10vh;
+  height: 50vh;
+  background: skyblue;
+}
+.img{
+  width: 100px;
+  height: 100px;
+}
